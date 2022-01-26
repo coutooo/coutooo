@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 <br>
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=coutooo&theme=gotham&show_icons=true" width="420"/>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coutooo&show_icons=true&theme=dracula&locale=en" alt="coutooo" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutooo&hide=vhdl&theme=gotham&langs_count=6&layout=compact"/>
 </div>
