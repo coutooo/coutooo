@@ -23,6 +23,6 @@ Here are some ideas to get you started:
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coutooo&theme=onedark" alt="coutooo" width="500"/></p>
 </div>
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=coutooo&theme=onedark&show_icons=true" width="500"/></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=coutooo&theme=onedark&show_icons=true" width="500"/></p>
  </div>
 
