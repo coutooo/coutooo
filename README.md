@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/manuelcouto10/)
 <br>
 <div>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coutooo&theme=synthwave" alt="coutooo" width="500"/></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coutooo&theme=tokyonight" alt="coutooo" width="500"/></p>
 </div>
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=coutooo&theme=synthwave&show_icons=true" width="500"/></p>
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutooo&hide=vhdl&theme=tokyonight&langs_count=6&layout=compact" width="250"/></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=coutooo&theme=tokyonight&show_icons=true" width="500"/></p>
  </div>
 
