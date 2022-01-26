@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <br>
 <div>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coutooo&theme=dracula" alt="coutooo" width="420"/></p>
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutooo&hide=vhdl&theme=dracula&langs_count=6&layout=compact" width="420"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=coutooo&theme=dracula&show_icons=true" width="420"/></p>
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutooo&hide=vhdl&theme=dracula&langs_count=6&layout=compact" width="300"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=coutooo&theme=dracula&show_icons=true" width="300"/></p>
 </div>
