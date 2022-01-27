@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align = "center"> <img src="https://komarev.com/ghpvc/?username=coutooo&style=flat&color=brightgreen" /> </p>
-<p align = "center"> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-couto-10a5371a3/"/> </p>
+<p align = "center"> <img src="https://komarev.com/ghpvc/?username=coutooo&style=flat&color=brightgreen" />
+<img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-couto-10a5371a3/"/>
+</p>
+<p align = "center"> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-couto-10a5371a3/"/>
+<img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/manuelcouto10/" />
+</p>
 <p align = "center"> <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/manuelcouto10/" />
   </p>
   [![Linkedin Badge]
