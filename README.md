@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
 ![](https://komarev.com/ghpvc/?username=coutooo&style=flat&color=brightgreen)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-couto-10a5371a3/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/manuelcouto10/)
-  </p>
   <br>
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coutooo&theme=onedark" alt="coutooo" width="500"/></p>
