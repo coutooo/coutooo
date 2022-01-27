@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <img align="center" src = https://komarev.com/ghpvc/?username=coutooo&style=flat&color=brightgreen />
+  <img align="center" src = "https://komarev.com/ghpvc/?username=coutooo&style=flat&color=brightgreen" />
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-couto-10a5371a3/)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/manuelcouto10/)
 <div align="center">
