@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **coutooo/coutooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 ![](https://komarev.com/ghpvc/?username=coutooo&style=flat&color=brightgreen)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-couto-10a5371a3/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/manuelcouto10/)
   <br>
-<div align="center">
+  ## ⚡ GitHub Stats
+<div align="left">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coutooo&theme=onedark" alt="coutooo" width="500"/></p>
 </div>
-<div align = "center">
+<div align = "left">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=coutooo&theme=onedark&show_icons=true" width="500"/></p>
  </div>
 
